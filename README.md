@@ -54,6 +54,7 @@ The WIFIRE ecosystem supports wildfire-related analysis using geospatial, satell
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
+import scipy
 ```
 
 Additional libraries can be included depending on the implementation.
