@@ -365,54 +365,6 @@ jupyter
 
 ---
 
-# ▶️ How to Run
-
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Navigate to the project:
-
-```bash
-cd Satellite-Image-Data-Analysis
-```
-
-Start Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-Satellite_Image_Data_Analysis.ipynb
-```
-
-and run the cells sequentially.
-
----
-
-# 📸 Project Screenshots
-
-Add screenshots of your analysis here.
-
-Example:
-
-```markdown
-## Satellite Image
-
-![Satellite Image](./images/original_satellite_image.png)
-
-## Processed Image
-
-![Processed Image](./images/processed_satellite_image.png)
-```
-
----
-
 # ⭐ Project Highlights
 
 | Category             | Details                                      |
